@@ -1,0 +1,22 @@
+.divClass h1{
+    color: pink;
+}
+
+.divClass #spanId{
+    font-size: 15px;
+    margin: 50px;
+
+}
+
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: black;
+    padding: 50px;
+    border: 5px crimson;
+
+}
+
+#thirdDiv ul li img{
+    width: 400px;
+}
